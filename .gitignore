@@ -1,0 +1,3 @@
+/WebApp/*pyc*
+/WebApp/*.sqlite3
+/WebApp/.vscode/*
