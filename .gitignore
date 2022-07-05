@@ -1,3 +1,9 @@
 /WebApp/*pyc*
 /WebApp/*.sqlite3
 /WebApp/.vscode/*
+
+
+/nutri_lab/env/*
+/nutri_lab/*pyc*
+/nutri_lab/*.sqlite3
+/nutri_lab/.vscode/*
